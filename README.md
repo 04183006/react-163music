@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-# react-163music
-一个基于react实现的模仿网易云音乐
-=======
-<<<<<<< HEAD
-# react-163music
-一个基于react实现的模仿网易云音乐
-=======
-<<<<<<< HEAD
-# react-163music
-一个基于react实现的模仿网易云音乐
-=======
-# React实战之云音乐项目
 
-> 如果觉得不错，或者对你有帮助，点一个star~ coderwhy
+# react-163music
+一个基于react实现的模仿网易云音乐
+
+> 如果觉得不错，或者对你有帮助，点一个star~
 
 ### 1.1. 项目简介
 
@@ -28,9 +18,7 @@
 * 榜单
 * 等等
 
-![推荐页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9kwh3cqj31ck0p37uj.jpg)
 
-![推荐页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghva5bx7bvj31d10p6thq.jpg)
 
 歌曲播放：
 
@@ -40,13 +28,12 @@
 * 做了播放循序切换：顺序播放、随机播放、单曲循环；
 * 做了歌词的解析、展示、滚动；
 
-![歌曲播放](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9pc3ki6j30ws0ahti8.jpg)
+
 
 排行榜页面：
 
 * 各种榜单的切换；
 
-![排行榜页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9qjg0m4j31d10p4ai3.jpg)
 
 歌单页面：
 
@@ -54,7 +41,6 @@
 * 根据分类，歌单列表的展示；
 * 分页功能；
 
-![歌单页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9rsp1stj31d10p44j2.jpg)
 
 主播电台：
 
@@ -62,21 +48,19 @@
 * 不同分类展示不同的数据；
 * 电台排行榜展示、分页；
 
-![主播电台](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9sxt3nqj31d10p4k4s.jpg)
 
 歌手页面：
 
 * 各种歌手分类（没找到接口，还自定义了一些数据）
 * 歌手字母分类、对应歌手展示；
 
-![歌手页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9ts3h5dj31d10p4qfo.jpg)
+
 
 新碟上架页面：
 
 * 热门新碟；
 * 全部新碟、分页展示；
 
-![新碟上架页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9uryexgj31d10p4aue.jpg)
 
 
 
